@@ -21,11 +21,10 @@ AnKingOverhaul on AnKingissa eniten käytetty korttipohja. Olen apinoinut paljon
 
 ## Tutoriaali?
 
-AnKingOverhaul on sen verran monikäyttöinen korttipohja, että uskon tutoriaalin sen käytöstä olevan paikallaan. AnKing on tehnyt aiheesta todella hyvän [opetusvideon](https://youtu.be/NYUhNMyAZNs?si=nVMu01-Tv2D05t_a), mutta tämä opas tiivistää videon ja tuo samalla esiin hyviä vinkkejä kortin käytöstä niin Rankin suhteen kuin omien korttien tekoa ajatellen. 
+AnKingOverhaul on sen verran monikäyttöinen korttipohja, että sen käyttö vaatii tutoriaalin. AnKing on itse kuitenkin jo tehnyt aiheesta todella hyvän [opetusvideon](https://youtu.be/NYUhNMyAZNs?si=nVMu01-Tv2D05t_a), joten tämä opas ei keskity kortin kaikkiin ominaisuuksiin. 
 
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+- Tämä opas pääasiassa opastaa nopeasti korttipohjan käytön Rankia varten. 
+
 
 
 ```{r include=FALSE}

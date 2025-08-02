@@ -1,0 +1,22 @@
+# AnKingOverhaul - Ominaisuudet 
+
+Korttipohjassa on useita eri kenttiä, joihin voi sijoittaa erilaista tietoa. 
+
+Rankissa käytän kenttiä näin:
+
+- Ylimpänä olevaan Text-kenttään tulee itse kysymys (Cloze-muotoisena)
+- Extra-kenttään tyypillisesti kirjoitetaan kysymystä avaavaa tekstiä ja tärkeitä kuvia 
+- Lecture Notes-kenttään tyypillisesti sijoitetaan kuvat aiheeseen liittyvistä luentodioista 
+- Missed Questions-kenttään tyypillisesti sijoitetaan kysymyspankeista (esim. UWorldista tai Ambossista) korttiin liittyvät kysymykset (ei aina tarvitse olla ns. väärin vastattu kysymys eli Missed Question)
+- Additional Resources-kenttään tyypillisesti sijotetaan suurin osa netistä/duokkarista/terveysportista kerätyistä screenshoteista 
+- Loput kentät ovat varattu jenkkien opetusmateriaaleille. Tärkeimmät ovat Sketchy (preklinikan kursseille) ja Sketchy2 (klinikkavaiheen kursseille), jonne sijoitetaan aina kuvat korttiin liittyvistä Sketchy-videoista. 
+
+## One by One?
+
+Kortin pohjalla on kenttä nimeltä One by One. Tämä on kohta, johon voi lisätä mitä tahansa tekstiä, jonka jälkeen kortin Clozet muuttuvat erikseen klikattaviksi. AnKingilla on tarjolla myös one-by-one versio Image Occlusionista. 
+
+- Kortteja kerratessaan Voi halutessaan painaa näppäimistöllä shortcuttia N. N kääntää aina listassa seuraavan clozen. 
+
+
+- Kts. AnKingin [opetusvideo](https://youtu.be/NYUhNMyAZNs?si=nVMu01-Tv2D05t_a), jos haluat itse oppia tekemään one-by-one-kortteja. 
+
