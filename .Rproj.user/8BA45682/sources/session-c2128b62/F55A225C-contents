@@ -1,0 +1,10 @@
+# Huomioita
+
+Clozen brackettien boldaaminen tai kursivoiminen vaikuttaa koko korttiin 
+
+
+```{r eval=FALSE}
+?bookdown::gitbook
+```
+
+
